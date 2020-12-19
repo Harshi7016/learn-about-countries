@@ -14,7 +14,7 @@
 }
 body {
   /* background-image: url("https://elements-cover-images-0.imgix.net/6ebef0a3-2a18-4e0d-8dd4-8473115f531b?auto=compress%2Cformat&fit=max&w=1019&s=f081170798958382b5b7f62d85fbf8ba"); */
-  background-image: url("./image.jpg");
+  background-image: url("images/image.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
