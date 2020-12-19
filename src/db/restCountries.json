@@ -1,0 +1,805 @@
+[
+  {
+    "name": "Bangladesh",
+    "topLevelDomain": [".bd"],
+    "alpha2Code": "BD",
+    "alpha3Code": "BGD",
+    "callingCodes": ["880"],
+    "capital": "Dhaka",
+    "altSpellings": [
+      "BD",
+      "People's Republic of Bangladesh",
+      "Gônôprôjatôntri Bangladesh"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 161006790,
+    "latlng": [24, 90],
+    "demonym": "Bangladeshi",
+    "area": 147570,
+    "gini": 32.1,
+    "timezones": ["UTC+06:00"],
+    "borders": ["MMR", "IND"],
+    "nativeName": "Bangladesh",
+    "numericCode": "050",
+    "currencies": [
+      {
+        "code": "BDT",
+        "name": "Bangladeshi taka",
+        "symbol": "৳"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "bn",
+        "iso639_2": "ben",
+        "name": "Bengali",
+        "nativeName": "বাংলা"
+      }
+    ],
+    "translations": {
+      "de": "Bangladesch",
+      "es": "Bangladesh",
+      "fr": "Bangladesh",
+      "ja": "バングラデシュ",
+      "it": "Bangladesh",
+      "br": "Bangladesh",
+      "pt": "Bangladeche",
+      "nl": "Bangladesh",
+      "hr": "Bangladeš",
+      "fa": "بنگلادش"
+    },
+    "flag": "https://restcountries.eu/data/bgd.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "SAARC",
+        "name": "South Asian Association for Regional Cooperation",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "BAN"
+  },
+  {
+    "name": "Bhutan",
+    "topLevelDomain": [".bt"],
+    "alpha2Code": "BT",
+    "alpha3Code": "BTN",
+    "callingCodes": ["975"],
+    "capital": "Thimphu",
+    "altSpellings": ["BT", "Kingdom of Bhutan"],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 775620,
+    "latlng": [27.5, 90.5],
+    "demonym": "Bhutanese",
+    "area": 38394,
+    "gini": 38.1,
+    "timezones": ["UTC+06:00"],
+    "borders": ["CHN", "IND"],
+    "nativeName": "ʼbrug-yul",
+    "numericCode": "064",
+    "currencies": [
+      {
+        "code": "BTN",
+        "name": "Bhutanese ngultrum",
+        "symbol": "Nu."
+      },
+      {
+        "code": "INR",
+        "name": "Indian rupee",
+        "symbol": "₹"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "dz",
+        "iso639_2": "dzo",
+        "name": "Dzongkha",
+        "nativeName": "རྫོང་ཁ"
+      }
+    ],
+    "translations": {
+      "de": "Bhutan",
+      "es": "Bután",
+      "fr": "Bhoutan",
+      "ja": "ブータン",
+      "it": "Bhutan",
+      "br": "Butão",
+      "pt": "Butão",
+      "nl": "Bhutan",
+      "hr": "Butan",
+      "fa": "بوتان"
+    },
+    "flag": "https://restcountries.eu/data/btn.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "SAARC",
+        "name": "South Asian Association for Regional Cooperation",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "BHU"
+  },
+  {
+    "name": "China",
+    "topLevelDomain": [".cn"],
+    "alpha2Code": "CN",
+    "alpha3Code": "CHN",
+    "callingCodes": ["86"],
+    "capital": "Beijing",
+    "altSpellings": [
+      "CN",
+      "Zhōngguó",
+      "Zhongguo",
+      "Zhonghua",
+      "People's Republic of China",
+      "中华人民共和国",
+      "Zhōnghuá Rénmín Gònghéguó"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 1377422166,
+    "latlng": [35, 105],
+    "demonym": "Chinese",
+    "area": 9640011,
+    "gini": 47,
+    "timezones": ["UTC+08:00"],
+    "borders": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ],
+    "nativeName": "中国",
+    "numericCode": "156",
+    "currencies": [
+      {
+        "code": "CNY",
+        "name": "Chinese yuan",
+        "symbol": "¥"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "zh",
+        "iso639_2": "zho",
+        "name": "Chinese",
+        "nativeName": "中文 (Zhōngwén)"
+      }
+    ],
+    "translations": {
+      "de": "China",
+      "es": "China",
+      "fr": "Chine",
+      "ja": "中国",
+      "it": "Cina",
+      "br": "China",
+      "pt": "China",
+      "nl": "China",
+      "hr": "Kina",
+      "fa": "چین"
+    },
+    "flag": "https://restcountries.eu/data/chn.svg",
+    "regionalBlocs": [],
+    "cioc": "CHN"
+  },
+  {
+    "name": "India",
+    "topLevelDomain": [".in"],
+    "alpha2Code": "IN",
+    "alpha3Code": "IND",
+    "callingCodes": ["91"],
+    "capital": "New Delhi",
+    "altSpellings": ["IN", "Bhārat", "Republic of India", "Bharat Ganrajya"],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 1295210000,
+    "latlng": [20, 77],
+    "demonym": "Indian",
+    "area": 3287590,
+    "gini": 33.4,
+    "timezones": ["UTC+05:30"],
+    "borders": ["AFG", "BGD", "BTN", "MMR", "CHN", "NPL", "PAK", "LKA"],
+    "nativeName": "भारत",
+    "numericCode": "356",
+    "currencies": [
+      {
+        "code": "INR",
+        "name": "Indian rupee",
+        "symbol": "₹"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "hi",
+        "iso639_2": "hin",
+        "name": "Hindi",
+        "nativeName": "हिन्दी"
+      },
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "translations": {
+      "de": "Indien",
+      "es": "India",
+      "fr": "Inde",
+      "ja": "インド",
+      "it": "India",
+      "br": "Índia",
+      "pt": "Índia",
+      "nl": "India",
+      "hr": "Indija",
+      "fa": "هند"
+    },
+    "flag": "https://restcountries.eu/data/ind.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "SAARC",
+        "name": "South Asian Association for Regional Cooperation",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "IND"
+  },
+  {
+    "name": "Indonesia",
+    "topLevelDomain": [".id"],
+    "alpha2Code": "ID",
+    "alpha3Code": "IDN",
+    "callingCodes": ["62"],
+    "capital": "Jakarta",
+    "altSpellings": ["ID", "Republic of Indonesia", "Republik Indonesia"],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 258705000,
+    "latlng": [-5, 120],
+    "demonym": "Indonesian",
+    "area": 1904569,
+    "gini": 34,
+    "timezones": ["UTC+07:00", "UTC+08:00", "UTC+09:00"],
+    "borders": ["TLS", "MYS", "PNG"],
+    "nativeName": "Indonesia",
+    "numericCode": "360",
+    "currencies": [
+      {
+        "code": "IDR",
+        "name": "Indonesian rupiah",
+        "symbol": "Rp"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "id",
+        "iso639_2": "ind",
+        "name": "Indonesian",
+        "nativeName": "Bahasa Indonesia"
+      }
+    ],
+    "translations": {
+      "de": "Indonesien",
+      "es": "Indonesia",
+      "fr": "Indonésie",
+      "ja": "インドネシア",
+      "it": "Indonesia",
+      "br": "Indonésia",
+      "pt": "Indonésia",
+      "nl": "Indonesië",
+      "hr": "Indonezija",
+      "fa": "اندونزی"
+    },
+    "flag": "https://restcountries.eu/data/idn.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "ASEAN",
+        "name": "Association of Southeast Asian Nations",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "INA"
+  },
+  {
+    "name": "Israel",
+    "topLevelDomain": [".il"],
+    "alpha2Code": "IL",
+    "alpha3Code": "ISR",
+    "callingCodes": ["972"],
+    "capital": "Jerusalem",
+    "altSpellings": ["IL", "State of Israel", "Medīnat Yisrā'el"],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 8527400,
+    "latlng": [31.5, 34.75],
+    "demonym": "Israeli",
+    "area": 20770,
+    "gini": 39.2,
+    "timezones": ["UTC+02:00"],
+    "borders": ["EGY", "JOR", "LBN", "SYR"],
+    "nativeName": "יִשְׂרָאֵל",
+    "numericCode": "376",
+    "currencies": [
+      {
+        "code": "ILS",
+        "name": "Israeli new shekel",
+        "symbol": "₪"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "he",
+        "iso639_2": "heb",
+        "name": "Hebrew (modern)",
+        "nativeName": "עברית"
+      },
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      }
+    ],
+    "translations": {
+      "de": "Israel",
+      "es": "Israel",
+      "fr": "Israël",
+      "ja": "イスラエル",
+      "it": "Israele",
+      "br": "Israel",
+      "pt": "Israel",
+      "nl": "Israël",
+      "hr": "Izrael",
+      "fa": "اسرائیل"
+    },
+    "flag": "https://restcountries.eu/data/isr.svg",
+    "regionalBlocs": [],
+    "cioc": "ISR"
+  },
+  {
+    "name": "Japan",
+    "topLevelDomain": [".jp"],
+    "alpha2Code": "JP",
+    "alpha3Code": "JPN",
+    "callingCodes": ["81"],
+    "capital": "Tokyo",
+    "altSpellings": ["JP", "Nippon", "Nihon"],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 126960000,
+    "latlng": [36, 138],
+    "demonym": "Japanese",
+    "area": 377930,
+    "gini": 38.1,
+    "timezones": ["UTC+09:00"],
+    "borders": [],
+    "nativeName": "日本",
+    "numericCode": "392",
+    "currencies": [
+      {
+        "code": "JPY",
+        "name": "Japanese yen",
+        "symbol": "¥"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "ja",
+        "iso639_2": "jpn",
+        "name": "Japanese",
+        "nativeName": "日本語 (にほんご)"
+      }
+    ],
+    "translations": {
+      "de": "Japan",
+      "es": "Japón",
+      "fr": "Japon",
+      "ja": "日本",
+      "it": "Giappone",
+      "br": "Japão",
+      "pt": "Japão",
+      "nl": "Japan",
+      "hr": "Japan",
+      "fa": "ژاپن"
+    },
+    "flag": "https://restcountries.eu/data/jpn.svg",
+    "regionalBlocs": [],
+    "cioc": "JPN"
+  },
+  {
+    "name": "Germany",
+    "topLevelDomain": [".de"],
+    "alpha2Code": "DE",
+    "alpha3Code": "DEU",
+    "callingCodes": ["49"],
+    "capital": "Berlin",
+    "altSpellings": [
+      "DE",
+      "Federal Republic of Germany",
+      "Bundesrepublik Deutschland"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 81770900,
+    "latlng": [51, 9],
+    "demonym": "German",
+    "area": 357114,
+    "gini": 28.3,
+    "timezones": ["UTC+01:00"],
+    "borders": ["AUT", "BEL", "CZE", "DNK", "FRA", "LUX", "NLD", "POL", "CHE"],
+    "nativeName": "Deutschland",
+    "numericCode": "276",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "de",
+        "iso639_2": "deu",
+        "name": "German",
+        "nativeName": "Deutsch"
+      }
+    ],
+    "translations": {
+      "de": "Deutschland",
+      "es": "Alemania",
+      "fr": "Allemagne",
+      "ja": "ドイツ",
+      "it": "Germania",
+      "br": "Alemanha",
+      "pt": "Alemanha",
+      "nl": "Duitsland",
+      "hr": "Njemačka",
+      "fa": "آلمان"
+    },
+    "flag": "https://restcountries.eu/data/deu.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "EU",
+        "name": "European Union",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "GER"
+  },
+  {
+    "name": "Greece",
+    "topLevelDomain": [".gr"],
+    "alpha2Code": "GR",
+    "alpha3Code": "GRC",
+    "callingCodes": ["30"],
+    "capital": "Athens",
+    "altSpellings": [
+      "GR",
+      "Elláda",
+      "Hellenic Republic",
+      "Ελληνική Δημοκρατία"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 10858018,
+    "latlng": [39, 22],
+    "demonym": "Greek",
+    "area": 131990,
+    "gini": 34.3,
+    "timezones": ["UTC+02:00"],
+    "borders": ["ALB", "BGR", "TUR", "MKD"],
+    "nativeName": "Ελλάδα",
+    "numericCode": "300",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "el",
+        "iso639_2": "ell",
+        "name": "Greek (modern)",
+        "nativeName": "ελληνικά"
+      }
+    ],
+    "translations": {
+      "de": "Griechenland",
+      "es": "Grecia",
+      "fr": "Grèce",
+      "ja": "ギリシャ",
+      "it": "Grecia",
+      "br": "Grécia",
+      "pt": "Grécia",
+      "nl": "Griekenland",
+      "hr": "Grčka",
+      "fa": "یونان"
+    },
+    "flag": "https://restcountries.eu/data/grc.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "EU",
+        "name": "European Union",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "GRE"
+  },
+  {
+    "name": "Austria",
+    "topLevelDomain": [".at"],
+    "alpha2Code": "AT",
+    "alpha3Code": "AUT",
+    "callingCodes": ["43"],
+    "capital": "Vienna",
+    "altSpellings": ["AT", "Österreich", "Osterreich", "Oesterreich"],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 8725931,
+    "latlng": [47.33333333, 13.33333333],
+    "demonym": "Austrian",
+    "area": 83871,
+    "gini": 26,
+    "timezones": ["UTC+01:00"],
+    "borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"],
+    "nativeName": "Österreich",
+    "numericCode": "040",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "de",
+        "iso639_2": "deu",
+        "name": "German",
+        "nativeName": "Deutsch"
+      }
+    ],
+    "translations": {
+      "de": "Österreich",
+      "es": "Austria",
+      "fr": "Autriche",
+      "ja": "オーストリア",
+      "it": "Austria",
+      "br": "áustria",
+      "pt": "áustria",
+      "nl": "Oostenrijk",
+      "hr": "Austrija",
+      "fa": "اتریش"
+    },
+    "flag": "https://restcountries.eu/data/aut.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "EU",
+        "name": "European Union",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "AUT"
+  },
+  {
+    "name": "Italy",
+    "topLevelDomain": [".it"],
+    "alpha2Code": "IT",
+    "alpha3Code": "ITA",
+    "callingCodes": ["39"],
+    "capital": "Rome",
+    "altSpellings": ["IT", "Italian Republic", "Repubblica italiana"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 60665551,
+    "latlng": [42.83333333, 12.83333333],
+    "demonym": "Italian",
+    "area": 301336,
+    "gini": 36,
+    "timezones": ["UTC+01:00"],
+    "borders": ["AUT", "FRA", "SMR", "SVN", "CHE", "VAT"],
+    "nativeName": "Italia",
+    "numericCode": "380",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "it",
+        "iso639_2": "ita",
+        "name": "Italian",
+        "nativeName": "Italiano"
+      }
+    ],
+    "translations": {
+      "de": "Italien",
+      "es": "Italia",
+      "fr": "Italie",
+      "ja": "イタリア",
+      "it": "Italia",
+      "br": "Itália",
+      "pt": "Itália",
+      "nl": "Italië",
+      "hr": "Italija",
+      "fa": "ایتالیا"
+    },
+    "flag": "https://restcountries.eu/data/ita.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "EU",
+        "name": "European Union",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "ITA"
+  },
+  {
+    "name": "Switzerland",
+    "topLevelDomain": [".ch"],
+    "alpha2Code": "CH",
+    "alpha3Code": "CHE",
+    "callingCodes": ["41"],
+    "capital": "Bern",
+    "altSpellings": [
+      "CH",
+      "Swiss Confederation",
+      "Schweiz",
+      "Suisse",
+      "Svizzera",
+      "Svizra"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 8341600,
+    "latlng": [47, 8],
+    "demonym": "Swiss",
+    "area": 41284,
+    "gini": 33.7,
+    "timezones": ["UTC+01:00"],
+    "borders": ["AUT", "FRA", "ITA", "LIE", "DEU"],
+    "nativeName": "Schweiz",
+    "numericCode": "756",
+    "currencies": [
+      {
+        "code": "CHF",
+        "name": "Swiss franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "de",
+        "iso639_2": "deu",
+        "name": "German",
+        "nativeName": "Deutsch"
+      },
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      {
+        "iso639_1": "it",
+        "iso639_2": "ita",
+        "name": "Italian",
+        "nativeName": "Italiano"
+      }
+    ],
+    "translations": {
+      "de": "Schweiz",
+      "es": "Suiza",
+      "fr": "Suisse",
+      "ja": "スイス",
+      "it": "Svizzera",
+      "br": "Suíça",
+      "pt": "Suíça",
+      "nl": "Zwitserland",
+      "hr": "Švicarska",
+      "fa": "سوئیس"
+    },
+    "flag": "https://restcountries.eu/data/che.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "EFTA",
+        "name": "European Free Trade Association",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "SUI"
+  },
+  {
+    "name": "United Kingdom of Great Britain",
+    "topLevelDomain": [".uk"],
+    "alpha2Code": "GB",
+    "alpha3Code": "GBR",
+    "callingCodes": ["44"],
+    "capital": "London",
+    "altSpellings": ["GB", "UK", "Great Britain"],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 65110000,
+    "latlng": [54, -2],
+    "demonym": "British",
+    "area": 242900,
+    "gini": 34,
+    "timezones": [
+      "UTC-08:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-02:00",
+      "UTC",
+      "UTC+01:00",
+      "UTC+02:00",
+      "UTC+06:00"
+    ],
+    "borders": ["IRL"],
+    "nativeName": "United Kingdom",
+    "numericCode": "826",
+    "currencies": [
+      {
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "translations": {
+      "de": "Vereinigtes Königreich",
+      "es": "Reino Unido",
+      "fr": "Royaume-Uni",
+      "ja": "イギリス",
+      "it": "Regno Unito",
+      "br": "Reino Unido",
+      "pt": "Reino Unido",
+      "nl": "Verenigd Koninkrijk",
+      "hr": "Ujedinjeno Kraljevstvo",
+      "fa": "بریتانیای کبیر و ایرلند شمالی"
+    },
+    "flag": "https://restcountries.eu/data/gbr.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "EU",
+        "name": "European Union",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "GBR"
+  }
+]
