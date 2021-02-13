@@ -78,37 +78,41 @@ export default function App() {
         </div>
       </div>
       <footer className="footer">
+       <div class="footer-header">
+            Connect with me
+        </div>
+        
         Made with ❤ by Harshith Venkatesh
         <div class="sm-footer">
           <a
             href="https://www.instagram.com/harshith_bing/"
-            rel="noopener noreferrer"
+            rel="noreferrer"
             target="_blank"
           >
             <i class="fab fa-instagram"></i>
           </a>
           <a
             href="https://twitter.com/Harshith_V007"
-            rel="noopener noreferrer"
+            rel="noreferrer"
             target="_blank"
           >
             <i class="fab fa-twitter"></i>
           </a>
-          <a href="https://github.com/harshi7016">
+          <a href="https://github.com/harshith-venkatesh">
             <i class="fab fa-github"></i>
           </a>
 
           <a
             href="https://medium.com/@harshithvenkatesh"
-            rel="noopener noreferrer"
+            rel="noreferrer"
             target="_blank"
           >
             <i class="fab fa-medium"></i>
           </a>
 
           <a
-            href="https://www.linkedin.com/in/harshithv7016/"
-            rel="noopener noreferrer"
+            href="https://www.linkedin.com/in/harshithvenkatesh/"
+            rel="noreferrer"
             target="_blank"
           >
             <i class="fab fa-linkedin"></i>
